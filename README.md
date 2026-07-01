@@ -204,7 +204,7 @@ plot_day("2024-05-14")
 
 ### Flare #29
 
-![SoLEXS Soft X-ray and HEL1OS Hard X-ray — Flare #29](readme/images/flare_0027.png)
+![SoLEXS Soft X-ray and HEL1OS Hard X-ray — Flare #29](readme/images/flare_0029.png)
 
 > **Observation:** AL1_SLX_L1_20240531_v1.0 | **Start:** 22:02:39 UTC | **Peak:** 22:03:04 UTC | **End:** 22:03:43 UTC  
 > **Duration:** 64s (1.1 min) | **Peak counts:** 8990.0 | **Prominence:** 1383.6 | **Hard/Soft ratio:** 0.27
